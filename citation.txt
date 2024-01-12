@@ -1,0 +1,6 @@
+@inproceedings{REPO233,
+    author = "Yu, Zichun and Xiong, Chenyan and Yu, Shih Yuan and Liu, Zhiyuan",
+    booktitle = "Annual Meeting of the Association for Computational Linguistics",
+    title = "{Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In}",
+    year = "2023"
+}
